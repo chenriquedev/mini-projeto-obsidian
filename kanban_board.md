@@ -26,7 +26,6 @@ kanban-plugin: board
 
 ## Em Progresso
 
-- [ ] Criar estrutura básica de pastas
 
 
 ## Concluído
@@ -37,6 +36,7 @@ kanban-plugin: board
 - [ ] Inserir a biblioteca axios e rxjs com os interceptadores de request e response
 - [ ] Configurar o projeto para acessar a api através de proxy reverso
 - [ ] Adicionar o primevue
+- [ ] Criar estrutura básica de pastas
 
 
 
