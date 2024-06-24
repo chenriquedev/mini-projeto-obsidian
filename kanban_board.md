@@ -19,7 +19,6 @@ kanban-plugin: board
 - [ ] Criar a barra de navegação
 - [ ] Adicionar os componentes do prime registro global
 - [ ] Criar as views Home
-- [ ] Criar guards somente unauthenticated
 - [ ] Criar rota dashboard e detalhes
 - [ ] Criar os serviços de movies
 
@@ -27,6 +26,7 @@ kanban-plugin: board
 ## Em Progresso
 
 - [ ] Criar estrutura básica de pastas
+- [ ] Criar guards somente unauthenticated
 
 
 ## Concluído
