@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "72a51e7f0cce9edb",
+        "id": "d23677b4e639169b",
         "type": "tabs",
         "children": [
           {
-            "id": "5bb515ea5931213f",
+            "id": "7aa7f5e687edb071",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "kanban_board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kanban_board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kanban_board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "kanban_board.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,10 +139,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5bb515ea5931213f",
+  "active": "7aa7f5e687edb071",
   "lastOpenFiles": [
-    "Atividade_ Desenvolvimento de um Site de Streaming para Filmes e Séries.md",
     "kanban_board.md",
+    "Desenvolvimento de um Site de Streaming para Filmes e Séries.md",
+    "Atividade_ Desenvolvimento de um Site de Streaming para Filmes e Séries.md",
     "Atividade_ Desenvolvimento de um Site de Streaming para Filmes e Séries.docx"
   ]
 }
