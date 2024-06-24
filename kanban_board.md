@@ -16,7 +16,6 @@ kanban-plugin: board
 - [ ] Criar as views Serie
 - [ ] Criar os serviços de todos
 - [ ] Criar os serviços de series
-- [ ] Criar a barra de navegação
 - [ ] Adicionar os componentes do prime registro global
 - [ ] Criar as views Home
 - [ ] Criar rota dashboard e detalhes
@@ -26,6 +25,7 @@ kanban-plugin: board
 
 ## Em Progresso
 
+- [ ] Criar a barra de navegação
 
 
 ## Concluído
