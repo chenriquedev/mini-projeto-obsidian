@@ -21,12 +21,12 @@ kanban-plugin: board
 - [ ] Criar as views Home
 - [ ] Criar rota dashboard e detalhes
 - [ ] Criar os serviços de movies
+- [ ] Criar guards somente unauthenticated
 
 
 ## Em Progresso
 
 - [ ] Criar estrutura básica de pastas
-- [ ] Criar guards somente unauthenticated
 
 
 ## Concluído
