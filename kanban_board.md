@@ -26,6 +26,7 @@ kanban-plugin: board
 ## Em Progresso
 
 - [ ] Criar a barra de navegação
+- [ ] Configurar o Primevue
 
 
 ## Concluído
