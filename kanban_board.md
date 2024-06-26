@@ -26,7 +26,6 @@ kanban-plugin: board
 ## Em Progresso
 
 - [ ] Criar a barra de navegação
-- [ ] Configurar o Primevue
 
 
 ## Concluído
@@ -38,6 +37,7 @@ kanban-plugin: board
 - [ ] Configurar o projeto para acessar a api através de proxy reverso
 - [ ] Adicionar o primevue
 - [ ] Criar estrutura básica de pastas
+- [ ] Configurar o Primevue
 
 
 
