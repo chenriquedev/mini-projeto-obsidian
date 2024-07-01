@@ -25,7 +25,6 @@ kanban-plugin: board
 
 ## Em Progresso
 
-- [ ] Criar a barra de navegação
 
 
 ## Concluído
@@ -38,6 +37,7 @@ kanban-plugin: board
 - [ ] Adicionar o primevue
 - [ ] Criar estrutura básica de pastas
 - [ ] Configurar o Primevue
+- [ ] Criar a barra de navegação
 
 
 
