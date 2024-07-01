@@ -16,7 +16,6 @@ kanban-plugin: board
 - [ ] Criar as views Serie
 - [ ] Criar os serviços de todos
 - [ ] Criar os serviços de series
-- [ ] Adicionar os componentes do prime registro global
 - [ ] Criar as views Home
 - [ ] Criar rota dashboard e detalhes
 - [ ] Criar os serviços de movies
@@ -38,6 +37,7 @@ kanban-plugin: board
 - [ ] Criar estrutura básica de pastas
 - [ ] Configurar o Primevue
 - [ ] Criar a barra de navegação
+- [ ] Adicionar os componentes do prime registro global
 
 
 
