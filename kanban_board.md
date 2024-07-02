@@ -18,12 +18,12 @@ kanban-plugin: board
 - [ ] Criar os serviços de series
 - [ ] Criar as views Home
 - [ ] Criar rota dashboard e detalhes
-- [ ] Criar os serviços de movies
 - [ ] Criar guards somente unauthenticated
 
 
 ## Em Progresso
 
+- [ ] Criar os serviços de movies
 
 
 ## Concluído
