@@ -13,17 +13,17 @@ kanban-plugin: board
 - [ ] Criar as views Serie (Detalhado)
 - [ ] Criar as views Home (Detalhe)
 - [ ] Criar as views Movie
+- [ ] Criar os serviços de movies
 - [ ] Criar as views Serie
-- [ ] Criar os serviços de todos
 - [ ] Criar os serviços de series
-- [ ] Criar as views Home
 - [ ] Criar rota dashboard e detalhes
 - [ ] Criar guards somente unauthenticated
 
 
 ## Em Progresso
 
-- [ ] Criar os serviços de movies
+- [ ] Criar as views Home
+- [ ] Criar os serviços de all
 
 
 ## Concluído
