@@ -23,7 +23,6 @@ kanban-plugin: board
 ## Em Progresso
 
 - [ ] Criar as views Home
-- [ ] Criar os serviços de all
 
 
 ## Concluído
@@ -38,6 +37,7 @@ kanban-plugin: board
 - [ ] Configurar o Primevue
 - [ ] Criar a barra de navegação
 - [ ] Adicionar os componentes do prime registro global
+- [ ] Criar os serviços de all
 
 
 
