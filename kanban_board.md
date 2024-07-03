@@ -12,9 +12,7 @@ kanban-plugin: board
 - [ ] Criar as views Movie (Detalhado)
 - [ ] Criar as views Serie (Detalhado)
 - [ ] Criar as views Home (Detalhe)
-- [ ] Criar as views Movie
 - [ ] Criar os serviços de movies
-- [ ] Criar as views Serie
 - [ ] Criar os serviços de series
 - [ ] Criar rota dashboard e detalhes
 - [ ] Criar guards somente unauthenticated
@@ -22,7 +20,10 @@ kanban-plugin: board
 
 ## Em Progresso
 
+- [ ] Card
 - [ ] Criar as views Home
+- [ ] Criar as views Movie
+- [ ] Criar as views Serie
 
 
 ## Concluído
