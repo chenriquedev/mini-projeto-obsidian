@@ -11,11 +11,13 @@
             "id": "7aa7f5e687edb071",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Chaves.md",
-                "mode": "source",
-                "source": false
+                "file": "kanban_board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               }
             }
           }
@@ -69,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6fe7c3b8c363e230",
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chaves.md",
+                "file": "kanban_board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chaves.md",
+                "file": "kanban_board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chaves.md"
+                "file": "kanban_board.md"
               }
             }
           }
@@ -149,9 +152,9 @@
   },
   "active": "7aa7f5e687edb071",
   "lastOpenFiles": [
+    "Chaves.md",
     "kanban_board.md",
     "Desenvolvimento de um Site de Streaming para Filmes e Séries.md",
-    "Chaves.md",
     "Atividade_ Desenvolvimento de um Site de Streaming para Filmes e Séries.md",
     "Atividade_ Desenvolvimento de um Site de Streaming para Filmes e Séries.docx"
   ]
