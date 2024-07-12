@@ -9,17 +9,14 @@ kanban-plugin: board
 - [ ] Adicionar funcionalidade de favoritar e desfavoritar
 - [ ] Criar serviço do local storage
 - [ ] Criar View de Favoritos
-- [ ] Criar as views Movie (Detalhado)
-- [ ] Criar as views Serie (Detalhado)
-- [ ] Criar as views Home (Detalhe)
-- [ ] Criar rota dashboard e detalhes
 - [ ] Criar guards somente unauthenticated
 
 
 ## Em Progresso
 
-- [ ] Criar os serviços de series
-- [ ] Criar os serviços de movies
+- [ ] Criar as views Home (Detalhe)
+- [ ] Criar as views Serie (Detalhado)
+- [ ] Criar as views Movie (Detalhado)
 
 
 ## Concluído
@@ -39,6 +36,9 @@ kanban-plugin: board
 - [ ] Criar as views Home
 - [ ] Criar as views Movie
 - [ ] Criar as views Serie
+- [ ] Criar os serviços de series
+- [ ] Criar rota dashboard e detalhes
+- [ ] Criar os serviços de movies
 
 
 
