@@ -11,13 +11,11 @@
             "id": "7aa7f5e687edb071",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "kanban_board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "Desenvolvimento de um Site de Streaming para Filmes e Séries.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6fe7c3b8c363e230",
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kanban_board.md",
+                "file": "Desenvolvimento de um Site de Streaming para Filmes e Séries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kanban_board.md",
+                "file": "Desenvolvimento de um Site de Streaming para Filmes e Séries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kanban_board.md"
+                "file": "Desenvolvimento de um Site de Streaming para Filmes e Séries.md"
               }
             }
           }
