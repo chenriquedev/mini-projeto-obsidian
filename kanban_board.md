@@ -6,21 +6,22 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Adicionar funcionalidade de favoritar e desfavoritar
-- [ ] Criar serviço do local storage
-- [ ] Criar View de Favoritos
 - [ ] Criar guards somente unauthenticated
 
 
 ## Em Progresso
 
-- [ ] Criar as views Home (Detalhe)
-- [ ] Criar as views Serie (Detalhado)
-- [ ] Criar as views Movie (Detalhado)
+- [ ] Criar View de Favoritos
+- [ ] Criar serviço do local storage
+- [ ] Adicionar funcionalidade de favoritar e desfavoritar
+- [ ] Paginação
 
 
 ## Concluído
 
+- [ ] Criar as views Movie (Detalhado)
+- [ ] Criar as views Serie (Detalhado)
+- [ ] Criar as views Home (Detalhe)
 - [ ] Inicializar o projeto
 - [ ] Adicionar projeto ao repositório do Git (github)
 - [ ] Configurar projeto com typescript
